@@ -1,0 +1,1 @@
+Ajout d'un .env not push par gitignore, un exemple de .env avec le .env.exemple, et la ligne correspondante modifiée dans le fichier app lors de l'appel vers la base de données.
